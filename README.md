@@ -1,10 +1,6 @@
 # Project goals
 
-Creating a Linux router with firewall, WiFi, VPN, NAS and other services on PC Engines APU4 computer. Device will bridge several ethernet ports and WiFi with one master ethernet port connected to gateway (with DHCP server). MAC whitelisting will be implemented on wireless interface.
-
-# Motivation
-
-To learn more about networking in Linux.
+Creating a Linux router with firewall, WiFi, VPN, NAS and other services on PC Engines APU4 computer. Device will bridge WiFi with all ethernet ports. MAC whitelisting will be implemented on wireless interface.
 
 # Setting up APU4D4 and installing OS
 
